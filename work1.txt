@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+table, th, td {
+  border: 1px solid black;
+border-radius:20px;
+background-color: #96D4D4;
+}
+table {
+  border-spacing: 30px;
+}
+
+
+body {
+  background-color: lightblue;
+ }
+ 
+  .sidenav {
+  height: 90px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #f0ffff;
+  padding-top: 20px;
+}
+
+
+
+.sidenav a {
+  padding: 6px 80px 0px 6px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #000000;
+  
+  
+}
+
+.sidenav a:hover {
+  color: #000000;
+}
+
+
+.main {
+margin-left: 160px;
+font-size=28px;
+padding: 300px 30px;
+}
+
+h1 {
+font-size:60px;
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 30px;
+}
+
+h2 {
+  
+  
+  color:red;
+}
+
+</style>
+</head>
+<body>
+<div class="sidenav">
+<a href="#work.html"><img alt="Qries" src="C:\Users\GIRI\Desktop\Capture.jpg"
+         width="120" height="80"></a>&emsp;&emsp;&emsp;&emsp;
+<a href="#work.html">School Students</a>
+<a href="#work.html">College Students</a>
+<a href="#work.html">Graduates or Droupouts</a>
+<a href="#work.html">Go to Dashboard</a>
+</div>
+
+<div class="main">
+<h1>Creating Computer <span style="color:green">Engineers</span> <br>& Tech <span style="color:green">Scientists</span></h1>
+<p>Steyp is buliding a Digital University for students to learn and become Engineers and Future Scientists irresoective of their age or educational background, All that is required is the appitude for the field</p>
+</div>
+<h2>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Apply Now</h2>
+<center>
+
+<table style="width:80%">
+  <tr>
+    <th><h4><a href="">School Students</a></h4></th>
+    <th><h4><a href="">College Students<a></h4></th> 
+    <th><h4><a href="">Graduates</a></h4></th>
+  </tr>
+   
+</table></div>
+</center>
+</body>
+</html>
+
+
